@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pass It On</string>
+    <string name="launch_text">Welcome to <b><i>Pass It On</i></b></string>
+    <string name="launch_text2">So you are ...</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="sign_up">Sign up</string>
+    <string name="register">Register</string>
+    <string name="co_pass">Confirm Password</string>
+    <string name="details">You need to enter your details here</string>
+    <string name="emp_name">Employee Name</string>
+    <string name="emp_desi">Employee Designation</string>
+    <string name="emp_dep">Employee Department</string>
+    <string name="emp_sal">Employee Salary</string>
+    <string name="enter">Next</string>
+    <string name="hello">Hello  </string>
+    <string name="total">Total Amount : </string>
+    <string name="Limit">Maximum Limit : </string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="title_activity_after_login_employee">AfterLoginEmployee</string>
+    <string name="title_activity_after_login_people">AfterLoginPeople</string>
+    <string name="title_activity_after_login_finance">AfterLoginFinance</string>
+    <string name="title_activity_forms">Forms</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">CTC Form</string>
+</resources>
